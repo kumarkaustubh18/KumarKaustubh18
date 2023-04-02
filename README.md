@@ -1,7 +1,7 @@
-[![MasterHead](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg)
+![MasterHead](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg)
 <h1 align="center">Hi 👋, I'm Kumar Kaustubh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align ="right" alt ="Coding" width="330" src="https://techasoft.com/uploads/Developer.jpg">
+<img align ="right" alt ="Coding" width="300" src="https://techasoft.com/uploads/Developer.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarkaustubh18&label=Profile%20views&color=0e75b6&style=flat" alt="kumarkaustubh18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarkaustubh18" alt="kumarkaustubh18" /></a> </p>
