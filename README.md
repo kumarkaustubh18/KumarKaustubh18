@@ -6,19 +6,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarkaustubh18" alt="kumarkaustubh18" /></a> </p>
 
 <img align ="right" alt ="Coding" width="350" src="https://techasoft.com/uploads/Developer.jpg">
-- 🔭 I’m currently working on **SpringBoot**
+- 🔭 I’m currently working on **SpringBoot,React**
 
-- 🌱 I’m currently learning **Spring,Blockchain**
+- 🌱 I’m currently learning **Spring,React**
 
-- 👯 I’m looking to collaborate on **WOW Card**
+- 👯 I’m looking to collaborate on **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumarkaustubh18](https://github.com/kumarkaustubh18)
 
 - 📫 How to reach me **Kumarkaustubh768@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UIlW_DhtodQ1eY8qHohuNW_1DFp2pODg/view?usp=share_link](https://drive.google.com/file/d/1UIlW_DhtodQ1eY8qHohuNW_1DFp2pODg/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1t5YIIClZQYVy0r-xK6H5-qzIVdbV-3Cv/view?usp=sharing
 
-- ⚡ Hobby **Cricket**
+- ⚡ Hobby **Cricket,Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
